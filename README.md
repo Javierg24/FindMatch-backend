@@ -31,6 +31,7 @@ FindMatch-backend/
 
 ```bash
 git clone https://github.com/tu-usuario/findmatch-backend.git
+```
 
 2. **Importar la base de datos:**
 
