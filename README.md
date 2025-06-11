@@ -8,6 +8,6 @@
 |----model
 
 -sql
-	|
-	|-----------SCRIPT.sql
-	|-----------inserts_findmatch.sql
+|
+|-----------SCRIPT.sql
+|-----------inserts_findmatch.sql
